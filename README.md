@@ -1,4 +1,4 @@
-# Simple-CRUD-w-Express-and-Mongo
+# Mongo-Crud
 
 - Node.js: a JavaScript runtime environment, the lovely folks that created Node made it so that we can run JavaScript as server side-code. May God bless their souls.
 - Express: a framework for building web applications using Node.js by making server creation a simpler process.
