@@ -1,0 +1,38 @@
+{
+  "name": "simple-crud",
+  "version": "1.0.0",
+  "description": "Simple CRUD to show how to make a MongoDB and Express integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "CRUD",
+    "Express",
+    "MongoDB",
+    "NodeJS"
+  ],
+  "author": "Mijail Montero",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/festiveox/Simple-CRUD-w-Express-and-Mongo.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "mongoose": "^6.0.8",
+    "mongosh": "^1.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  },
+  "bugs": {
+    "url": "https://github.com/festiveox/Simple-CRUD-w-Express-and-Mongo/issues"
+  },
+  "homepage": "https://github.com/festiveox/Simple-CRUD-w-Express-and-Mongo#readme"
+}
